@@ -1,3 +1,3 @@
 # RepositorioEntornos
 
-//Este es el README del repositorios
+//Este es el README del repositorio de
